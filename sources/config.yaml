@@ -1,4 +1,5 @@
-    sources:
-      - MomoSignature.glyphs
-    familyName: "Momo Signature"
-    cleanUp: true
+sources:
+  - MomoSignature.glyphs
+familyName: "Momo Signature"
+cleanUp: true
+extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=95,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
