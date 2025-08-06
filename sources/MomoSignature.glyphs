@@ -2,7 +2,8 @@
 .appVersion = "3420";
 .formatVersion = 3;
 DisplayStrings = (
-"b/b.case/b.init.case/b.fina/b.init/b.isol/b.ss01/b.fina.ss01/b.init.ss01/b.isol.ss01/b_r.liga/b_s.liga/b_r.liga.case/b_s.liga.case/b_r.liga.fina/b_s.liga.fina/b_r.liga.init/b_s.liga.init/b_r.liga.isol/b_s.liga.isol/b_r.liga.ss01/b_s.liga.ss01/b_r.liga.fina.ss01/b_s.liga.fina.ss01/b_r.liga.init.case/b_s.liga.init.case/b_r.liga.init.ss01/b_s.liga.init.ss01/b_r.liga.isol.ss01/b_s.liga.isol.ss01"
+"b/b.case/b.init.case/b.fina/b.init/b.isol/b.ss01/b.fina.ss01/b.init.ss01/b.isol.ss01/b_r.liga/b_s.liga/b_r.liga.case/b_s.liga.case/b_r.liga.fina/b_s.liga.fina/b_r.liga.init/b_s.liga.init/b_r.liga.isol/b_s.liga.isol/b_r.liga.ss01/b_s.liga.ss01/b_r.liga.fina.ss01/b_s.liga.fina.ss01/b_r.liga.init.case/b_s.liga.init.case/b_r.liga.init.ss01/b_s.liga.init.ss01/b_r.liga.isol.ss01/b_s.liga.isol.ss01",
+A
 );
 classes = (
 {
@@ -2044,7 +2045,7 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1100;
 },
 {
 name = typoDescender;
@@ -2060,11 +2061,11 @@ value = 1340;
 },
 {
 name = winDescent;
-value = 374;
+value = 378;
 },
 {
 name = hheaAscender;
-value = 800;
+value = 1100;
 },
 {
 name = hheaDescender;
