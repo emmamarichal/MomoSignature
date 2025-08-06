@@ -1,5 +1,5 @@
 {
-.appVersion = "3414";
+.appVersion = "3420";
 .formatVersion = 3;
 DisplayStrings = (
 "b/b.case/b.init.case/b.fina/b.init/b.isol/b.ss01/b.fina.ss01/b.init.ss01/b.isol.ss01/b_r.liga/b_s.liga/b_r.liga.case/b_s.liga.case/b_r.liga.fina/b_s.liga.fina/b_r.liga.init/b_s.liga.init/b_r.liga.isol/b_s.liga.isol/b_r.liga.ss01/b_s.liga.ss01/b_r.liga.fina.ss01/b_s.liga.fina.ss01/b_r.liga.init.case/b_s.liga.init.case/b_r.liga.init.ss01/b_s.liga.init.ss01/b_r.liga.isol.ss01/b_s.liga.isol.ss01"
@@ -128,7 +128,7 @@ name = Initial;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adotbelow Agrave Ahookabove Atilde B C D Dcroat E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edotbelow Egrave Ehookabove Etilde F G H I Iacute Idotbelow Igrave Ihookabove Itilde J K L M N O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Otilde P Q R S T U Uacute Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydotbelow Ygrave Yhookabove Ytilde Z a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adotbelow agrave ahookabove atilde b c d dcroat e eacute ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edotbelow egrave ehookabove etilde f g h i dotlessi iacute idotbelow igrave ihookabove itilde j k l m n o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde otilde p q r s t u uacute udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde utilde v w x y yacute ydotbelow ygrave yhookabove ytilde z r.begin s.begin r.ss01 s.ss01 A.ss01 Aacute.ss01 Abreve.ss01 Abreveacute.ss01 Abrevedotbelow.ss01 Abrevegrave.ss01 Abrevehookabove.ss01 Abrevetilde.ss01 Acircumflex.ss01 Acircumflexacute.ss01 Acircumflexdotbelow.ss01 Acircumflexgrave.ss01 Acircumflexhookabove.ss01 Acircumflextilde.ss01 Adotbelow.ss01 Agrave.ss01 Ahookabove.ss01 Atilde.ss01 C.ss01 E.ss01 Eacute.ss01 Ecircumflex.ss01 Ecircumflexacute.ss01 Ecircumflexdotbelow.ss01 Ecircumflexgrave.ss01 Ecircumflexhookabove.ss01 Ecircumflextilde.ss01 Edotbelow.ss01 Egrave.ss01 Ehookabove.ss01 Etilde.ss01 G.ss01 H.ss01 Iacute.ss01 Idotbelow.ss01 Igrave.ss01 Ihookabove.ss01 Itilde.ss01 J.ss01 K.ss01 L.ss01 M.ss01 N.ss01 O.ss01 Oacute.ss01 Ocircumflex.ss01 Ocircumflexacute.ss01 Ocircumflexdotbelow.ss01 Ocircumflexgrave.ss01 Ocircumflexhookabove.ss01 Ocircumflextilde.ss01 Odotbelow.ss01 Ograve.ss01 Ohookabove.ss01 Ohorn.ss01 Ohornacute.ss01 Ohorndotbelow.ss01 Ohorngrave.ss01 Ohornhookabove.ss01 Ohorntilde.ss01 Otilde.ss01 Q.ss01 R.ss01 S.ss01 U.ss01 Udotbelow.ss01 Ugrave.ss01 Uhookabove.ss01 Uhorn.ss01 Uhornacute.ss01 Uhorndotbelow.ss01 Uhorngrave.ss01 Uhornhookabove.ss01 Uhorntilde.ss01 Utilde.ss01 X.ss01 Y.ss01 Yacute.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ytilde.ss01 Z.ss01 a.ss01 aacute.ss01 abreve.ss01 abreveacute.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehookabove.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhookabove.ss01 acircumflextilde.ss01 adotbelow.ss01 agrave.ss01 ahookabove.ss01 atilde.ss01 b.ss01 c.ss01 d.ss01 dcroat.ss01 e.ss01 eacute.ss01 ecircumflex.ss01 ecircumflexacute.ss01 ecircumflexdotbelow.ss01 ecircumflexgrave.ss01 ecircumflexhookabove.ss01 ecircumflextilde.ss01 edotbelow.ss01 egrave.ss01 ehookabove.ss01 etilde.ss01 f.ss01 g.ss01 h.ss01 i.ss01 dotlessi.ss01 iacute.ss01 idotbelow.ss01 igrave.ss01 ihookabove.ss01 itilde.ss01 j.ss01 k.ss01 l.ss01 m.ss01 n.ss01 o.ss01 oacute.ss01 ocircumflex.ss01 ocircumflexacute.ss01 ocircumflexdotbelow.ss01 ocircumflexgrave.ss01 ocircumflexhookabove.ss01 ocircumflextilde.ss01 odotbelow.ss01 ograve.ss01 ohookabove.ss01 ohorn.ss01 ohornacute.ss01 ohorndotbelow.ss01 ohorngrave.ss01 ohornhookabove.ss01 ohorntilde.ss01 otilde.ss01 p.ss01 q.ss01 u.ss01 uacute.ss01 udotbelow.ss01 ugrave.ss01 uhookabove.ss01 uhorn.ss01 uhornacute.ss01 uhorndotbelow.ss01 uhorngrave.ss01 uhornhookabove.ss01 uhorntilde.ss01 utilde.ss01 v.ss01 w.ss01 x.ss01 y.ss01 yacute.ss01 ydotbelow.ss01 ygrave.ss01 yhookabove.ss01 ytilde.ss01 z.ss01 Adieresis Amacron Aogonek Aring AE Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Dcaron Eth Ecaron Edieresis Edotaccent Emacron Eogonek Schwa Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Hbar Hcircumflex IJ Icircumflex Idieresis Idotaccent Imacron Iogonek Jacute Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Odieresis Ohungarumlaut Omacron Oslash OE Thorn Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Tcaron Tcedilla Tcommaaccent Ubreve Ucircumflex Udieresis Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Ycircumflex Ydieresis Zacute Zcaron Zdotaccent A.case C.case E.case G.case H.case J.case K.case L.case M.case N.case O.case Q.case R.case S.case U.case Uhorn.case X.case Y.case Z.case a.case b.case c.case d.case dcroat.case e.case eacute.case ecircumflex.case ecircumflexacute.case ecircumflexdotbelow.case ecircumflexgrave.case ecircumflexhookabove.case ecircumflextilde.case edotbelow.case egrave.case ehookabove.case etilde.case f.case g.case h.case i.case dotlessi.case j.case k.case l.case m.case n.case o.case p.case q.case r.case s.case t.case u.case v.case w.case x.case y.case z.case Lcommaaccent.loclMAH Ncommaaccent.loclMAH A.ss03 Aacute.ss03 Abreve.ss03 Abreveacute.ss03 Abrevedotbelow.ss03 Abrevegrave.ss03 Abrevehookabove.ss03 Abrevetilde.ss03 Acircumflex.ss03 Acircumflexacute.ss03 Acircumflexdotbelow.ss03 Acircumflexgrave.ss03 Acircumflexhookabove.ss03 Acircumflextilde.ss03 Adotbelow.ss03 Agrave.ss03 Ahookabove.ss03 Atilde.ss03 B.ss03 C.ss03 D.ss03 Dcroat.ss03 E.ss03 Eacute.ss03 Ecircumflex.ss03 Ecircumflexacute.ss03 Ecircumflexdotbelow.ss03 Ecircumflexgrave.ss03 Ecircumflexhookabove.ss03 Ecircumflextilde.ss03 Edotbelow.ss03 Egrave.ss03 Ehookabove.ss03 Etilde.ss03 F.ss03 G.ss03 H.ss03 I.ss03 Iacute.ss03 Idotbelow.ss03 Igrave.ss03 Ihookabove.ss03 Itilde.ss03 J.ss03 K.ss03 L.ss03 M.ss03 N.ss03 O.ss03 Oacute.ss03 Ocircumflex.ss03 Ocircumflexacute.ss03 Ocircumflexdotbelow.ss03 Ocircumflexgrave.ss03 Ocircumflexhookabove.ss03 Ocircumflextilde.ss03 Odotbelow.ss03 Ograve.ss03 Ohookabove.ss03 Ohorn.ss03 Ohornacute.ss03 Ohorndotbelow.ss03 Ohorngrave.ss03 Ohornhookabove.ss03 Ohorntilde.ss03 Otilde.ss03 P.ss03 Q.ss03 R.ss03 S.ss03 T.ss03 U.ss03 Uacute.ss03 Udotbelow.ss03 Ugrave.ss03 Uhookabove.ss03 Uhorn.ss03 Uhornacute.ss03 Uhorndotbelow.ss03 Uhorngrave.ss03 Uhornhookabove.ss03 Uhorntilde.ss03 Utilde.ss03 V.ss03 W.ss03 X.ss03 Y.ss03 Yacute.ss03 Ydotbelow.ss03 Ygrave.ss03 Yhookabove.ss03 Ytilde.ss03 Z.ss03 b.init.case f.init.case h.init.case k.init.case l.init.case e.case.ss01 eacute.case.ss01 ecircumflex.case.ss01 ecircumflexacute.case.ss01 ecircumflexdotbelow.case.ss01 ecircumflexgrave.case.ss01 ecircumflexhookabove.case.ss01 ecircumflextilde.case.ss01 edotbelow.case.ss01 egrave.case.ss01 ehookabove.case.ss01 etilde.case.ss01 r.case.ss01 s.case.ss01 A_I.liga A_r.liga A_s.liga B_r.liga B_s.liga C_r.liga C_s.liga D_r.liga D_s.liga E_r.liga E_s.liga F_r.liga F_s.liga G_r.liga G_s.liga H_r.liga H_s.liga I_r.liga I_s.liga J_r.liga J_s.liga K_r.liga K_s.liga L_r.liga L_s.liga M_o_M_o.liga M_r.liga M_s.liga N_r.liga N_s.liga O_r.liga O_s.liga P_r.liga P_s.liga Q_R.liga Q_r.liga Q_s.liga R_r.liga R_s.liga S_r.liga S_s.liga T_H.liga T_abrevegrave.liga T_abrevehookabove.liga T_r.liga T_s.liga U_r.liga U_s.liga V_r.liga V_s.liga W_r.liga W_s.liga Z_r.liga Z_s.liga A_r.liga.case A_s.liga.case B_r.liga.case B_s.liga.case C_r.liga.case C_s.liga.case D_r.liga.case D_s.liga.case E_r.liga.case E_s.liga.case F_r.liga.case F_s.liga.case G_r.liga.case G_s.liga.case H_r.liga.case H_s.liga.case I_r.liga.case I_s.liga.case J_r.liga.case J_s.liga.case K_r.liga.case K_s.liga.case L_r.liga.case L_s.liga.case M_r.liga.case M_s.liga.case N_r.liga.case N_s.liga.case O_r.liga.case O_s.liga.case P_r.liga.case P_s.liga.case Q_r.liga.case Q_s.liga.case R_r.liga.case R_s.liga.case S_r.liga.case S_s.liga.case T_r.liga.case T_s.liga.case U_r.liga.case U_s.liga.case V_r.liga.case V_s.liga.case W_r.liga.case W_s.liga.case Z_r.liga.case Z_s.liga.case A_r.liga.fina A_s.liga.fina B_r.liga.fina B_s.liga.fina C_r.liga.fina C_s.liga.fina D_r.liga.fina D_s.liga.fina E_r.liga.fina E_s.liga.fina F_r.liga.fina F_s.liga.fina G_r.liga.fina G_s.liga.fina H_r.liga.fina H_s.liga.fina I_r.liga.fina I_s.liga.fina J_r.liga.fina J_s.liga.fina K_r.liga.fina K_s.liga.fina L_r.liga.fina L_s.liga.fina M_r.liga.fina M_s.liga.fina N_r.liga.fina N_s.liga.fina O_r.liga.fina O_s.liga.fina P_r.liga.fina P_s.liga.fina Q_r.liga.fina Q_s.liga.fina R_r.liga.fina R_s.liga.fina S_r.liga.fina S_s.liga.fina T_r.liga.fina T_s.liga.fina U_r.liga.fina U_s.liga.fina V_r.liga.fina V_s.liga.fina W_r.liga.fina W_s.liga.fina Z_r.liga.fina Z_s.liga.fina A_r.liga.init A_s.liga.init B_r.liga.init B_s.liga.init C_r.liga.init C_s.liga.init D_r.liga.init D_s.liga.init E_r.liga.init E_s.liga.init F_r.liga.init F_s.liga.init G_r.liga.init G_s.liga.init H_r.liga.init H_s.liga.init I_r.liga.init I_s.liga.init J_r.liga.init J_s.liga.init K_r.liga.init K_s.liga.init L_r.liga.init L_s.liga.init M_r.liga.init M_s.liga.init N_r.liga.init N_s.liga.init O_r.liga.init O_s.liga.init P_r.liga.init P_s.liga.init Q_r.liga.init Q_s.liga.init R_r.liga.init R_s.liga.init S_r.liga.init S_s.liga.init T_r.liga.init T_s.liga.init U_r.liga.init U_s.liga.init V_r.liga.init V_s.liga.init W_r.liga.init W_s.liga.init Z_r.liga.init Z_s.liga.init A_r.liga.isol A_s.liga.isol B_r.liga.isol B_s.liga.isol C_r.liga.isol C_s.liga.isol D_r.liga.isol D_s.liga.isol E_r.liga.isol E_s.liga.isol F_r.liga.isol F_s.liga.isol G_r.liga.isol G_s.liga.isol H_r.liga.isol H_s.liga.isol I_r.liga.isol I_s.liga.isol J_r.liga.isol J_s.liga.isol K_r.liga.isol K_s.liga.isol L_r.liga.isol L_s.liga.isol M_r.liga.isol M_s.liga.isol N_r.liga.isol N_s.liga.isol O_r.liga.isol O_s.liga.isol P_r.liga.isol P_s.liga.isol Q_r.liga.isol Q_s.liga.isol R_r.liga.isol R_s.liga.isol S_r.liga.isol S_s.liga.isol T_r.liga.isol T_s.liga.isol U_r.liga.isol U_s.liga.isol V_r.liga.isol V_s.liga.isol W_r.liga.isol W_s.liga.isol Z_r.liga.isol Z_s.liga.isol A_r.liga.ss01 A_s.liga.ss01 B_r.liga.ss01 B_s.liga.ss01 C_r.liga.ss01 C_s.liga.ss01 D_r.liga.ss01 D_s.liga.ss01 E_r.liga.ss01 E_s.liga.ss01 F_r.liga.ss01 F_s.liga.ss01 G_r.liga.ss01 G_s.liga.ss01 H_r.liga.ss01 H_s.liga.ss01 I_r.liga.ss01 I_s.liga.ss01 J_r.liga.ss01 J_s.liga.ss01 K_r.liga.ss01 K_s.liga.ss01 L_r.liga.ss01 L_s.liga.ss01 M_r.liga.ss01 M_s.liga.ss01 N_r.liga.ss01 N_s.liga.ss01 O_r.liga.ss01 O_s.liga.ss01 P_r.liga.ss01 P_s.liga.ss01 Q_r.liga.ss01 Q_s.liga.ss01 R_r.liga.ss01 R_s.liga.ss01 S_r.liga.ss01 S_s.liga.ss01 T_r.liga.ss01 T_s.liga.ss01 U_r.liga.ss01 U_s.liga.ss01 V_r.liga.ss01 V_s.liga.ss01 W_r.liga.ss01 W_s.liga.ss01 Z_r.liga.ss01 Z_s.liga.ss01 A_r.liga.init.ss01 A_s.liga.init.ss01 B_r.liga.init.ss01 B_s.liga.init.ss01 C_r.liga.init.ss01 C_s.liga.init.ss01 D_r.liga.init.ss01 D_s.liga.init.ss01 E_r.liga.init.ss01 E_s.liga.init.ss01 F_r.liga.init.ss01 F_s.liga.init.ss01 G_r.liga.init.ss01 G_s.liga.init.ss01 H_r.liga.init.ss01 H_s.liga.init.ss01 I_r.liga.init.ss01 I_s.liga.init.ss01 J_r.liga.init.ss01 J_s.liga.init.ss01 K_r.liga.init.ss01 K_s.liga.init.ss01 L_r.liga.init.ss01 L_s.liga.init.ss01 M_r.liga.init.ss01 M_s.liga.init.ss01 N_r.liga.init.ss01 N_s.liga.init.ss01 O_r.liga.init.ss01 O_s.liga.init.ss01 P_r.liga.init.ss01 P_s.liga.init.ss01 Q_r.liga.init.ss01 Q_s.liga.init.ss01 R_r.liga.init.ss01 R_s.liga.init.ss01 S_r.liga.init.ss01 S_s.liga.init.ss01 T_r.liga.init.ss01 T_s.liga.init.ss01 U_r.liga.init.ss01 U_s.liga.init.ss01 V_r.liga.init.ss01 V_s.liga.init.ss01 W_r.liga.init.ss01 W_s.liga.init.ss01 Z_r.liga.init.ss01 Z_s.liga.init.ss01 adieresis amacron aogonek aring ae cacute ccaron ccedilla ccircumflex cdotaccent dcaron eth ecaron edieresis edotaccent emacron eogonek schwa gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron hbar hcircumflex icircumflex idieresis idotaccent imacron iogonek ij jdotless jacute jcircumflex kcommaaccent lacute lcaron lcommaaccent lslash nacute ncaron ncommaaccent ntilde odieresis ohungarumlaut omacron oslash oe thorn racute rcaron rcommaaccent sacute scaron scedilla scircumflex scommaaccent germandbls tcaron tcedilla tcommaaccent ubreve ucircumflex udieresis uhungarumlaut umacron uogonek uring wacute wcircumflex wdieresis wgrave ycircumflex ydieresis zacute zcaron zdotaccent a.fina aacute.fina abreve.fina abreveacute.fina abrevedotbelow.fina abrevegrave.fina abrevehookabove.fina abrevetilde.fina acircumflex.fina acircumflexacute.fina acircumflexdotbelow.fina acircumflexgrave.fina acircumflexhookabove.fina acircumflextilde.fina adotbelow.fina agrave.fina ahookabove.fina atilde.fina b.fina c.fina d.fina dcroat.fina e.fina eacute.fina ecircumflex.fina ecircumflexacute.fina ecircumflexdotbelow.fina ecircumflexgrave.fina ecircumflexhookabove.fina ecircumflextilde.fina edotbelow.fina egrave.fina ehookabove.fina etilde.fina f.fina g.fina h.fina i.fina dotlessi.fina iacute.fina idotbelow.fina igrave.fina ihookabove.fina itilde.fina j.fina k.fina l.fina m.fina n.fina o.fina oacute.fina ocircumflex.fina ocircumflexacute.fina ocircumflexdotbelow.fina ocircumflexgrave.fina ocircumflexhookabove.fina ocircumflextilde.fina odotbelow.fina ograve.fina ohookabove.fina ohorn.fina ohornacute.fina ohorndotbelow.fina ohorngrave.fina ohornhookabove.fina ohorntilde.fina otilde.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina udotbelow.fina ugrave.fina uhookabove.fina uhorn.fina uhornacute.fina uhorndotbelow.fina uhorngrave.fina uhornhookabove.fina uhorntilde.fina utilde.fina v.fina w.fina x.fina y.fina yacute.fina ydotbelow.fina ygrave.fina yhookabove.fina ytilde.fina z.fina b.init f.init h.init k.init l.init a.isol aacute.isol abreve.isol abreveacute.isol abrevedotbelow.isol abrevegrave.isol abrevehookabove.isol abrevetilde.isol acircumflex.isol acircumflexacute.isol acircumflexdotbelow.isol acircumflexgrave.isol acircumflexhookabove.isol acircumflextilde.isol adotbelow.isol agrave.isol ahookabove.isol atilde.isol b.isol c.isol d.isol dcroat.isol e.isol eacute.isol ecircumflex.isol ecircumflexacute.isol ecircumflexdotbelow.isol ecircumflexgrave.isol ecircumflexhookabove.isol ecircumflextilde.isol edotbelow.isol egrave.isol ehookabove.isol etilde.isol f.isol g.isol h.isol i.isol dotlessi.isol iacute.isol idotbelow.isol igrave.isol ihookabove.isol itilde.isol j.isol k.isol l.isol m.isol n.isol o.isol oacute.isol ocircumflex.isol ocircumflexacute.isol ocircumflexdotbelow.isol ocircumflexgrave.isol ocircumflexhookabove.isol ocircumflextilde.isol odotbelow.isol ograve.isol ohookabove.isol ohorn.isol ohornacute.isol ohorndotbelow.isol ohorngrave.isol ohornhookabove.isol ohorntilde.isol otilde.isol p.isol q.isol r.isol s.isol t.isol u.isol uacute.isol udotbelow.isol ugrave.isol uhookabove.isol uhorn.isol uhornacute.isol uhorndotbelow.isol uhorngrave.isol uhornhookabove.isol uhorntilde.isol utilde.isol v.isol w.isol x.isol y.isol yacute.isol ydotbelow.isol ygrave.isol yhookabove.isol ytilde.isol z.isol lcommaaccent.loclMAH ncommaaccent.loclMAH r.ss02 s.ss02 t.ss02 f.ss02.init b.fina.ss01 f.fina.ss01 h.fina.ss01 k.fina.ss01 l.fina.ss01 b.init.ss01 f.init.ss01 h.init.ss01 k.init.ss01 l.init.ss01 b.isol.ss01 f.isol.ss01 h.isol.ss01 k.isol.ss01 l.isol.ss01 a_r.liga a_s.liga b_r.liga b_s.liga c_r.liga c_s.liga d_r.liga d_s.liga e_e.liga e_r.liga e_s.liga f_r.liga f_s.liga g_r.liga g_s.liga h_r.liga h_s.liga i_r.liga i_s.liga j_r.liga j_s.liga k_r.liga k_s.liga l_r.liga l_s.liga m_r.liga m_s.liga n_r.liga n_s.liga o_r.liga o_s.liga p_r.liga p_s.liga q_r.liga q_s.liga s_r.liga s_s.liga t_r.liga t_s.liga t_t.liga u_r.liga u_s.liga v_r.liga v_s.liga w_r.liga w_s.liga x_r.liga x_s.liga z_r.liga z_s.liga a_r.liga.case a_s.liga.case b_r.liga.case b_s.liga.case c_r.liga.case c_s.liga.case d_r.liga.case d_s.liga.case e_e.liga.case e_r.liga.case e_s.liga.case f_r.liga.case f_s.liga.case g_r.liga.case g_s.liga.case h_r.liga.case h_s.liga.case i_r.liga.case i_s.liga.case j_r.liga.case j_s.liga.case k_r.liga.case k_s.liga.case l_r.liga.case l_s.liga.case m_r.liga.case m_s.liga.case n_r.liga.case n_s.liga.case o_r.liga.case o_s.liga.case p_r.liga.case p_s.liga.case q_r.liga.case q_s.liga.case s_r.liga.case s_s.liga.case t_r.liga.case t_s.liga.case t_t.liga.case u_r.liga.case u_s.liga.case v_r.liga.case v_s.liga.case w_r.liga.case w_s.liga.case x_r.liga.case x_s.liga.case z_r.liga.case z_s.liga.case a_r.liga.fina a_s.liga.fina b_r.liga.fina b_s.liga.fina c_r.liga.fina c_s.liga.fina d_r.liga.fina d_s.liga.fina e_e.liga.fina e_r.liga.fina e_s.liga.fina f_r.liga.fina f_s.liga.fina g_r.liga.fina g_s.liga.fina h_r.liga.fina h_s.liga.fina i_r.liga.fina i_s.liga.fina j_r.liga.fina j_s.liga.fina k_r.liga.fina k_s.liga.fina l_r.liga.fina l_s.liga.fina m_r.liga.fina m_s.liga.fina n_r.liga.fina n_s.liga.fina o_r.liga.fina o_s.liga.fina p_r.liga.fina p_s.liga.fina q_r.liga.fina q_s.liga.fina s_r.liga.fina s_s.liga.fina t_r.liga.fina t_s.liga.fina t_t.liga.fina u_r.liga.fina u_s.liga.fina v_r.liga.fina v_s.liga.fina w_r.liga.fina w_s.liga.fina x_r.liga.fina x_s.liga.fina z_r.liga.fina z_s.liga.fina b_r.liga.init b_s.liga.init f_r.liga.init f_s.liga.init h_r.liga.init h_s.liga.init k_r.liga.init k_s.liga.init l_r.liga.init l_s.liga.init a_r.liga.isol a_s.liga.isol b_r.liga.isol b_s.liga.isol c_r.liga.isol c_s.liga.isol d_r.liga.isol d_s.liga.isol e_e.liga.isol e_r.liga.isol e_s.liga.isol f_r.liga.isol f_s.liga.isol g_r.liga.isol g_s.liga.isol h_r.liga.isol h_s.liga.isol i_r.liga.isol i_s.liga.isol j_r.liga.isol j_s.liga.isol k_r.liga.isol k_s.liga.isol l_r.liga.isol l_s.liga.isol m_r.liga.isol m_s.liga.isol n_r.liga.isol n_s.liga.isol o_r.liga.isol o_s.liga.isol p_r.liga.isol p_s.liga.isol q_r.liga.isol q_s.liga.isol s_r.liga.isol s_s.liga.isol t_r.liga.isol t_s.liga.isol t_t.liga.isol u_r.liga.isol u_s.liga.isol v_r.liga.isol v_s.liga.isol w_r.liga.isol w_s.liga.isol x_r.liga.isol x_s.liga.isol z_r.liga.isol z_s.liga.isol a_r.liga.ss01 a_s.liga.ss01 b_r.liga.ss01 b_s.liga.ss01 c_r.liga.ss01 c_s.liga.ss01 d_r.liga.ss01 d_s.liga.ss01 e_e.liga.ss01 e_r.liga.ss01 e_s.liga.ss01 f_r.liga.ss01 f_s.liga.ss01 g_r.liga.ss01 g_s.liga.ss01 h_r.liga.ss01 h_s.liga.ss01 i_r.liga.ss01 i_s.liga.ss01 j_r.liga.ss01 j_s.liga.ss01 k_r.liga.ss01 k_s.liga.ss01 l_r.liga.ss01 l_s.liga.ss01 m_r.liga.ss01 m_s.liga.ss01 n_r.liga.ss01 n_s.liga.ss01 o_r.liga.ss01 o_s.liga.ss01 p_r.liga.ss01 p_s.liga.ss01 q_r.liga.ss01 q_s.liga.ss01 s_r.liga.ss01 s_s.liga.ss01 t_r.liga.ss01 t_s.liga.ss01 t_t.liga.ss01 u_r.liga.ss01 u_s.liga.ss01 v_r.liga.ss01 v_s.liga.ss01 w_r.liga.ss01 w_s.liga.ss01 x_r.liga.ss01 x_s.liga.ss01 z_r.liga.ss01 z_s.liga.ss01 b_r.liga.fina.ss01 b_s.liga.fina.ss01 f_r.liga.fina.ss01 f_s.liga.fina.ss01 h_r.liga.fina.ss01 h_s.liga.fina.ss01 k_r.liga.fina.ss01 k_s.liga.fina.ss01 l_r.liga.fina.ss01 l_s.liga.fina.ss01 b_r.liga.init.case b_s.liga.init.case f_r.liga.init.case f_s.liga.init.case h_r.liga.init.case h_s.liga.init.case k_r.liga.init.case k_s.liga.init.case l_r.liga.init.case l_s.liga.init.case b_r.liga.init.ss01 b_s.liga.init.ss01 f_r.liga.init.ss01 f_s.liga.init.ss01 h_r.liga.init.ss01 h_s.liga.init.ss01 k_r.liga.init.ss01 k_s.liga.init.ss01 l_r.liga.init.ss01 l_s.liga.init.ss01 b_r.liga.isol.ss01 b_s.liga.isol.ss01 f_r.liga.isol.ss01 f_s.liga.isol.ss01 h_r.liga.isol.ss01 h_s.liga.isol.ss01 k_r.liga.isol.ss01 k_s.liga.isol.ss01 l_r.liga.isol.ss01 l_s.liga.isol.ss01";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A.case C.case E.case G.case H.case J.case K.case L.case M.case N.case O.case Q.case R.case S.case U.case Uhorn.case X.case Y.case Z.case a.case b.case c.case d.case dcroat.case e.case eacute.case ecircumflex.case ecircumflexacute.case ecircumflexdotbelow.case ecircumflexgrave.case ecircumflexhookabove.case ecircumflextilde.case edotbelow.case egrave.case ehookabove.case etilde.case f.case g.case h.case i.case dotlessi.case j.case k.case l.case m.case n.case o.case p.case q.case r.case s.case t.case u.case v.case w.case x.case y.case z.case Lcommaaccent.loclMAH Ncommaaccent.loclMAH A.ss01 Aacute.ss01 Abreve.ss01 Abreveacute.ss01 Abrevedotbelow.ss01 Abrevegrave.ss01 Abrevehookabove.ss01 Abrevetilde.ss01 Acircumflex.ss01 Acircumflexacute.ss01 Acircumflexdotbelow.ss01 Acircumflexgrave.ss01 Acircumflexhookabove.ss01 Acircumflextilde.ss01 Adotbelow.ss01 Agrave.ss01 Ahookabove.ss01 Atilde.ss01 C.ss01 E.ss01 Eacute.ss01 Ecircumflex.ss01 Ecircumflexacute.ss01 Ecircumflexdotbelow.ss01 Ecircumflexgrave.ss01 Ecircumflexhookabove.ss01 Ecircumflextilde.ss01 Edotbelow.ss01 Egrave.ss01 Ehookabove.ss01 Etilde.ss01 G.ss01 H.ss01 Iacute.ss01 Idotbelow.ss01 Igrave.ss01 Ihookabove.ss01 Itilde.ss01 J.ss01 K.ss01 L.ss01 M.ss01 N.ss01 O.ss01 Oacute.ss01 Ocircumflex.ss01 Ocircumflexacute.ss01 Ocircumflexdotbelow.ss01 Ocircumflexgrave.ss01 Ocircumflexhookabove.ss01 Ocircumflextilde.ss01 Odotbelow.ss01 Ograve.ss01 Ohookabove.ss01 Ohorn.ss01 Ohornacute.ss01 Ohorndotbelow.ss01 Ohorngrave.ss01 Ohornhookabove.ss01 Ohorntilde.ss01 Otilde.ss01 Q.ss01 R.ss01 S.ss01 U.ss01 Udotbelow.ss01 Ugrave.ss01 Uhookabove.ss01 Uhorn.ss01 Uhornacute.ss01 Uhorndotbelow.ss01 Uhorngrave.ss01 Uhornhookabove.ss01 Uhorntilde.ss01 Utilde.ss01 X.ss01 Y.ss01 Yacute.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ytilde.ss01 Z.ss01 A.ss03 Aacute.ss03 Abreve.ss03 Abreveacute.ss03 Abrevedotbelow.ss03 Abrevegrave.ss03 Abrevehookabove.ss03 Abrevetilde.ss03 Acircumflex.ss03 Acircumflexacute.ss03 Acircumflexdotbelow.ss03 Acircumflexgrave.ss03 Acircumflexhookabove.ss03 Acircumflextilde.ss03 Adotbelow.ss03 Agrave.ss03 Ahookabove.ss03 Atilde.ss03 B.ss03 C.ss03 D.ss03 Dcroat.ss03 E.ss03 Eacute.ss03 Ecircumflex.ss03 Ecircumflexacute.ss03 Ecircumflexdotbelow.ss03 Ecircumflexgrave.ss03 Ecircumflexhookabove.ss03 Ecircumflextilde.ss03 Edotbelow.ss03 Egrave.ss03 Ehookabove.ss03 Etilde.ss03 F.ss03 G.ss03 H.ss03 I.ss03 Iacute.ss03 Idotbelow.ss03 Igrave.ss03 Ihookabove.ss03 Itilde.ss03 J.ss03 K.ss03 L.ss03 M.ss03 N.ss03 O.ss03 Oacute.ss03 Ocircumflex.ss03 Ocircumflexacute.ss03 Ocircumflexdotbelow.ss03 Ocircumflexgrave.ss03 Ocircumflexhookabove.ss03 Ocircumflextilde.ss03 Odotbelow.ss03 Ograve.ss03 Ohookabove.ss03 Ohorn.ss03 Ohornacute.ss03 Ohorndotbelow.ss03 Ohorngrave.ss03 Ohornhookabove.ss03 Ohorntilde.ss03 Otilde.ss03 P.ss03 Q.ss03 R.ss03 S.ss03 T.ss03 U.ss03 Uacute.ss03 Udotbelow.ss03 Ugrave.ss03 Uhookabove.ss03 Uhorn.ss03 Uhornacute.ss03 Uhorndotbelow.ss03 Uhorngrave.ss03 Uhornhookabove.ss03 Uhorntilde.ss03 Utilde.ss03 V.ss03 W.ss03 X.ss03 Y.ss03 Yacute.ss03 Ydotbelow.ss03 Ygrave.ss03 Yhookabove.ss03 Ytilde.ss03 Z.ss03 b.init.case f.init.case h.init.case k.init.case l.init.case e.case.ss01 eacute.case.ss01 ecircumflex.case.ss01 ecircumflexacute.case.ss01 ecircumflexdotbelow.case.ss01 ecircumflexgrave.case.ss01 ecircumflexhookabove.case.ss01 ecircumflextilde.case.ss01 edotbelow.case.ss01 egrave.case.ss01 ehookabove.case.ss01 etilde.case.ss01 r.case.ss01 s.case.ss01 A_I.liga A_r.liga A_s.liga B_r.liga B_s.liga C_r.liga C_s.liga D_r.liga D_s.liga E_r.liga E_s.liga F_r.liga F_s.liga G_r.liga G_s.liga H_r.liga H_s.liga I_r.liga I_s.liga J_r.liga J_s.liga K_r.liga K_s.liga L_r.liga L_s.liga M_o_M_o.liga M_r.liga M_s.liga N_r.liga N_s.liga O_r.liga O_s.liga P_r.liga P_s.liga Q_R.liga Q_r.liga Q_s.liga R_r.liga R_s.liga S_r.liga S_s.liga T_H.liga T_abrevegrave.liga T_abrevehookabove.liga T_r.liga T_s.liga U_r.liga U_s.liga V_r.liga V_s.liga W_r.liga W_s.liga Z_r.liga Z_s.liga A_r.liga.case A_s.liga.case B_r.liga.case B_s.liga.case C_r.liga.case C_s.liga.case D_r.liga.case D_s.liga.case E_r.liga.case E_s.liga.case F_r.liga.case F_s.liga.case G_r.liga.case G_s.liga.case H_r.liga.case H_s.liga.case I_r.liga.case I_s.liga.case J_r.liga.case J_s.liga.case K_r.liga.case K_s.liga.case L_r.liga.case L_s.liga.case M_r.liga.case M_s.liga.case N_r.liga.case N_s.liga.case O_r.liga.case O_s.liga.case P_r.liga.case P_s.liga.case Q_r.liga.case Q_s.liga.case R_r.liga.case R_s.liga.case S_r.liga.case S_s.liga.case T_r.liga.case T_s.liga.case U_r.liga.case U_s.liga.case V_r.liga.case V_s.liga.case W_r.liga.case W_s.liga.case Z_r.liga.case Z_s.liga.case A_r.liga.fina A_s.liga.fina B_r.liga.fina B_s.liga.fina C_r.liga.fina C_s.liga.fina D_r.liga.fina D_s.liga.fina E_r.liga.fina E_s.liga.fina F_r.liga.fina F_s.liga.fina G_r.liga.fina G_s.liga.fina H_r.liga.fina H_s.liga.fina I_r.liga.fina I_s.liga.fina J_r.liga.fina J_s.liga.fina K_r.liga.fina K_s.liga.fina L_r.liga.fina L_s.liga.fina M_r.liga.fina M_s.liga.fina N_r.liga.fina N_s.liga.fina O_r.liga.fina O_s.liga.fina P_r.liga.fina P_s.liga.fina Q_r.liga.fina Q_s.liga.fina R_r.liga.fina R_s.liga.fina S_r.liga.fina S_s.liga.fina T_r.liga.fina T_s.liga.fina U_r.liga.fina U_s.liga.fina V_r.liga.fina V_s.liga.fina W_r.liga.fina W_s.liga.fina Z_r.liga.fina Z_s.liga.fina A_r.liga.init A_s.liga.init B_r.liga.init B_s.liga.init C_r.liga.init C_s.liga.init D_r.liga.init D_s.liga.init E_r.liga.init E_s.liga.init F_r.liga.init F_s.liga.init G_r.liga.init G_s.liga.init H_r.liga.init H_s.liga.init I_r.liga.init I_s.liga.init J_r.liga.init J_s.liga.init K_r.liga.init K_s.liga.init L_r.liga.init L_s.liga.init M_r.liga.init M_s.liga.init N_r.liga.init N_s.liga.init O_r.liga.init O_s.liga.init P_r.liga.init P_s.liga.init Q_r.liga.init Q_s.liga.init R_r.liga.init R_s.liga.init S_r.liga.init S_s.liga.init T_r.liga.init T_s.liga.init U_r.liga.init U_s.liga.init V_r.liga.init V_s.liga.init W_r.liga.init W_s.liga.init Z_r.liga.init Z_s.liga.init A_r.liga.isol A_s.liga.isol B_r.liga.isol B_s.liga.isol C_r.liga.isol C_s.liga.isol D_r.liga.isol D_s.liga.isol E_r.liga.isol E_s.liga.isol F_r.liga.isol F_s.liga.isol G_r.liga.isol G_s.liga.isol H_r.liga.isol H_s.liga.isol I_r.liga.isol I_s.liga.isol J_r.liga.isol J_s.liga.isol K_r.liga.isol K_s.liga.isol L_r.liga.isol L_s.liga.isol M_r.liga.isol M_s.liga.isol N_r.liga.isol N_s.liga.isol O_r.liga.isol O_s.liga.isol P_r.liga.isol P_s.liga.isol Q_r.liga.isol Q_s.liga.isol R_r.liga.isol R_s.liga.isol S_r.liga.isol S_s.liga.isol T_r.liga.isol T_s.liga.isol U_r.liga.isol U_s.liga.isol V_r.liga.isol V_s.liga.isol W_r.liga.isol W_s.liga.isol Z_r.liga.isol Z_s.liga.isol A_r.liga.ss01 A_s.liga.ss01 B_r.liga.ss01 B_s.liga.ss01 C_r.liga.ss01 C_s.liga.ss01 D_r.liga.ss01 D_s.liga.ss01 E_r.liga.ss01 E_s.liga.ss01 F_r.liga.ss01 F_s.liga.ss01 G_r.liga.ss01 G_s.liga.ss01 H_r.liga.ss01 H_s.liga.ss01 I_r.liga.ss01 I_s.liga.ss01 J_r.liga.ss01 J_s.liga.ss01 K_r.liga.ss01 K_s.liga.ss01 L_r.liga.ss01 L_s.liga.ss01 M_r.liga.ss01 M_s.liga.ss01 N_r.liga.ss01 N_s.liga.ss01 O_r.liga.ss01 O_s.liga.ss01 P_r.liga.ss01 P_s.liga.ss01 Q_r.liga.ss01 Q_s.liga.ss01 R_r.liga.ss01 R_s.liga.ss01 S_r.liga.ss01 S_s.liga.ss01 T_r.liga.ss01 T_s.liga.ss01 U_r.liga.ss01 U_s.liga.ss01 V_r.liga.ss01 V_s.liga.ss01 W_r.liga.ss01 W_s.liga.ss01 Z_r.liga.ss01 Z_s.liga.ss01 A_r.liga.init.ss01 A_s.liga.init.ss01 B_r.liga.init.ss01 B_s.liga.init.ss01 C_r.liga.init.ss01 C_s.liga.init.ss01 D_r.liga.init.ss01 D_s.liga.init.ss01 E_r.liga.init.ss01 E_s.liga.init.ss01 F_r.liga.init.ss01 F_s.liga.init.ss01 G_r.liga.init.ss01 G_s.liga.init.ss01 H_r.liga.init.ss01 H_s.liga.init.ss01 I_r.liga.init.ss01 I_s.liga.init.ss01 J_r.liga.init.ss01 J_s.liga.init.ss01 K_r.liga.init.ss01 K_s.liga.init.ss01 L_r.liga.init.ss01 L_s.liga.init.ss01 M_r.liga.init.ss01 M_s.liga.init.ss01 N_r.liga.init.ss01 N_s.liga.init.ss01 O_r.liga.init.ss01 O_s.liga.init.ss01 P_r.liga.init.ss01 P_s.liga.init.ss01 Q_r.liga.init.ss01 Q_s.liga.init.ss01 R_r.liga.init.ss01 R_s.liga.init.ss01 S_r.liga.init.ss01 S_s.liga.init.ss01 T_r.liga.init.ss01 T_s.liga.init.ss01 U_r.liga.init.ss01 U_s.liga.init.ss01 V_r.liga.init.ss01 V_s.liga.init.ss01 W_r.liga.init.ss01 W_s.liga.init.ss01 Z_r.liga.init.ss01 Z_s.liga.init.ss01 a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth e eacute ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek etilde schwa f g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron h hbar hcircumflex i dotlessi iacute icircumflex idieresis idotaccent idotbelow igrave ihookabove imacron iogonek itilde ij j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent lslash m n nacute ncaron ncommaaccent ntilde o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent r.begin s.begin a.fina aacute.fina abreve.fina abreveacute.fina abrevedotbelow.fina abrevegrave.fina abrevehookabove.fina abrevetilde.fina acircumflex.fina acircumflexacute.fina acircumflexdotbelow.fina acircumflexgrave.fina acircumflexhookabove.fina acircumflextilde.fina adotbelow.fina agrave.fina ahookabove.fina atilde.fina b.fina c.fina d.fina dcroat.fina e.fina eacute.fina ecircumflex.fina ecircumflexacute.fina ecircumflexdotbelow.fina ecircumflexgrave.fina ecircumflexhookabove.fina ecircumflextilde.fina edotbelow.fina egrave.fina ehookabove.fina etilde.fina f.fina g.fina h.fina i.fina dotlessi.fina iacute.fina idotbelow.fina igrave.fina ihookabove.fina itilde.fina j.fina k.fina l.fina m.fina n.fina o.fina oacute.fina ocircumflex.fina ocircumflexacute.fina ocircumflexdotbelow.fina ocircumflexgrave.fina ocircumflexhookabove.fina ocircumflextilde.fina odotbelow.fina ograve.fina ohookabove.fina ohorn.fina ohornacute.fina ohorndotbelow.fina ohorngrave.fina ohornhookabove.fina ohorntilde.fina otilde.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina udotbelow.fina ugrave.fina uhookabove.fina uhorn.fina uhornacute.fina uhorndotbelow.fina uhorngrave.fina uhornhookabove.fina uhorntilde.fina utilde.fina v.fina w.fina x.fina y.fina yacute.fina ydotbelow.fina ygrave.fina yhookabove.fina ytilde.fina z.fina b.init f.init h.init k.init l.init a.isol aacute.isol abreve.isol abreveacute.isol abrevedotbelow.isol abrevegrave.isol abrevehookabove.isol abrevetilde.isol acircumflex.isol acircumflexacute.isol acircumflexdotbelow.isol acircumflexgrave.isol acircumflexhookabove.isol acircumflextilde.isol adotbelow.isol agrave.isol ahookabove.isol atilde.isol b.isol c.isol d.isol dcroat.isol e.isol eacute.isol ecircumflex.isol ecircumflexacute.isol ecircumflexdotbelow.isol ecircumflexgrave.isol ecircumflexhookabove.isol ecircumflextilde.isol edotbelow.isol egrave.isol ehookabove.isol etilde.isol f.isol g.isol h.isol i.isol dotlessi.isol iacute.isol idotbelow.isol igrave.isol ihookabove.isol itilde.isol j.isol k.isol l.isol m.isol n.isol o.isol oacute.isol ocircumflex.isol ocircumflexacute.isol ocircumflexdotbelow.isol ocircumflexgrave.isol ocircumflexhookabove.isol ocircumflextilde.isol odotbelow.isol ograve.isol ohookabove.isol ohorn.isol ohornacute.isol ohorndotbelow.isol ohorngrave.isol ohornhookabove.isol ohorntilde.isol otilde.isol p.isol q.isol r.isol s.isol t.isol u.isol uacute.isol udotbelow.isol ugrave.isol uhookabove.isol uhorn.isol uhornacute.isol uhorndotbelow.isol uhorngrave.isol uhornhookabove.isol uhorntilde.isol utilde.isol v.isol w.isol x.isol y.isol yacute.isol ydotbelow.isol ygrave.isol yhookabove.isol ytilde.isol z.isol lcommaaccent.loclMAH ncommaaccent.loclMAH a.ss01 aacute.ss01 abreve.ss01 abreveacute.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehookabove.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhookabove.ss01 acircumflextilde.ss01 adotbelow.ss01 agrave.ss01 ahookabove.ss01 atilde.ss01 b.ss01 c.ss01 d.ss01 dcroat.ss01 e.ss01 eacute.ss01 ecircumflex.ss01 ecircumflexacute.ss01 ecircumflexdotbelow.ss01 ecircumflexgrave.ss01 ecircumflexhookabove.ss01 ecircumflextilde.ss01 edotbelow.ss01 egrave.ss01 ehookabove.ss01 etilde.ss01 f.ss01 g.ss01 h.ss01 i.ss01 dotlessi.ss01 iacute.ss01 idotbelow.ss01 igrave.ss01 ihookabove.ss01 itilde.ss01 j.ss01 k.ss01 l.ss01 m.ss01 n.ss01 o.ss01 oacute.ss01 ocircumflex.ss01 ocircumflexacute.ss01 ocircumflexdotbelow.ss01 ocircumflexgrave.ss01 ocircumflexhookabove.ss01 ocircumflextilde.ss01 odotbelow.ss01 ograve.ss01 ohookabove.ss01 ohorn.ss01 ohornacute.ss01 ohorndotbelow.ss01 ohorngrave.ss01 ohornhookabove.ss01 ohorntilde.ss01 otilde.ss01 p.ss01 q.ss01 r.ss01 s.ss01 u.ss01 uacute.ss01 udotbelow.ss01 ugrave.ss01 uhookabove.ss01 uhorn.ss01 uhornacute.ss01 uhorndotbelow.ss01 uhorngrave.ss01 uhornhookabove.ss01 uhorntilde.ss01 utilde.ss01 v.ss01 w.ss01 x.ss01 y.ss01 yacute.ss01 ydotbelow.ss01 ygrave.ss01 yhookabove.ss01 ytilde.ss01 z.ss01 r.ss02 s.ss02 t.ss02 f.ss02.init b.fina.ss01 f.fina.ss01 h.fina.ss01 k.fina.ss01 l.fina.ss01 b.init.ss01 f.init.ss01 h.init.ss01 k.init.ss01 l.init.ss01 b.isol.ss01 f.isol.ss01 h.isol.ss01 k.isol.ss01 l.isol.ss01 a_r.liga a_s.liga b_r.liga b_s.liga c_r.liga c_s.liga d_r.liga d_s.liga e_e.liga e_r.liga e_s.liga f_r.liga f_s.liga g_r.liga g_s.liga h_r.liga h_s.liga i_r.liga i_s.liga j_r.liga j_s.liga k_r.liga k_s.liga l_r.liga l_s.liga m_r.liga m_s.liga n_r.liga n_s.liga o_r.liga o_s.liga p_r.liga p_s.liga q_r.liga q_s.liga s_r.liga s_s.liga t_r.liga t_s.liga t_t.liga u_r.liga u_s.liga v_r.liga v_s.liga w_r.liga w_s.liga x_r.liga x_s.liga z_r.liga z_s.liga a_r.liga.case a_s.liga.case b_r.liga.case b_s.liga.case c_r.liga.case c_s.liga.case d_r.liga.case d_s.liga.case e_e.liga.case e_r.liga.case e_s.liga.case f_r.liga.case f_s.liga.case g_r.liga.case g_s.liga.case h_r.liga.case h_s.liga.case i_r.liga.case i_s.liga.case j_r.liga.case j_s.liga.case k_r.liga.case k_s.liga.case l_r.liga.case l_s.liga.case m_r.liga.case m_s.liga.case n_r.liga.case n_s.liga.case o_r.liga.case o_s.liga.case p_r.liga.case p_s.liga.case q_r.liga.case q_s.liga.case s_r.liga.case s_s.liga.case t_r.liga.case t_s.liga.case t_t.liga.case u_r.liga.case u_s.liga.case v_r.liga.case v_s.liga.case w_r.liga.case w_s.liga.case x_r.liga.case x_s.liga.case z_r.liga.case z_s.liga.case a_r.liga.fina a_s.liga.fina b_r.liga.fina b_s.liga.fina c_r.liga.fina c_s.liga.fina d_r.liga.fina d_s.liga.fina e_e.liga.fina e_r.liga.fina e_s.liga.fina f_r.liga.fina f_s.liga.fina g_r.liga.fina g_s.liga.fina h_r.liga.fina h_s.liga.fina i_r.liga.fina i_s.liga.fina j_r.liga.fina j_s.liga.fina k_r.liga.fina k_s.liga.fina l_r.liga.fina l_s.liga.fina m_r.liga.fina m_s.liga.fina n_r.liga.fina n_s.liga.fina o_r.liga.fina o_s.liga.fina p_r.liga.fina p_s.liga.fina q_r.liga.fina q_s.liga.fina s_r.liga.fina s_s.liga.fina t_r.liga.fina t_s.liga.fina t_t.liga.fina u_r.liga.fina u_s.liga.fina v_r.liga.fina v_s.liga.fina w_r.liga.fina w_s.liga.fina x_r.liga.fina x_s.liga.fina z_r.liga.fina z_s.liga.fina b_r.liga.init b_s.liga.init f_r.liga.init f_s.liga.init h_r.liga.init h_s.liga.init k_r.liga.init k_s.liga.init l_r.liga.init l_s.liga.init a_r.liga.isol a_s.liga.isol b_r.liga.isol b_s.liga.isol c_r.liga.isol c_s.liga.isol d_r.liga.isol d_s.liga.isol e_e.liga.isol e_r.liga.isol e_s.liga.isol f_r.liga.isol f_s.liga.isol g_r.liga.isol g_s.liga.isol h_r.liga.isol h_s.liga.isol i_r.liga.isol i_s.liga.isol j_r.liga.isol j_s.liga.isol k_r.liga.isol k_s.liga.isol l_r.liga.isol l_s.liga.isol m_r.liga.isol m_s.liga.isol n_r.liga.isol n_s.liga.isol o_r.liga.isol o_s.liga.isol p_r.liga.isol p_s.liga.isol q_r.liga.isol q_s.liga.isol s_r.liga.isol s_s.liga.isol t_r.liga.isol t_s.liga.isol t_t.liga.isol u_r.liga.isol u_s.liga.isol v_r.liga.isol v_s.liga.isol w_r.liga.isol w_s.liga.isol x_r.liga.isol x_s.liga.isol z_r.liga.isol z_s.liga.isol a_r.liga.ss01 a_s.liga.ss01 b_r.liga.ss01 b_s.liga.ss01 c_r.liga.ss01 c_s.liga.ss01 d_r.liga.ss01 d_s.liga.ss01 e_e.liga.ss01 e_r.liga.ss01 e_s.liga.ss01 f_r.liga.ss01 f_s.liga.ss01 g_r.liga.ss01 g_s.liga.ss01 h_r.liga.ss01 h_s.liga.ss01 i_r.liga.ss01 i_s.liga.ss01 j_r.liga.ss01 j_s.liga.ss01 k_r.liga.ss01 k_s.liga.ss01 l_r.liga.ss01 l_s.liga.ss01 m_r.liga.ss01 m_s.liga.ss01 n_r.liga.ss01 n_s.liga.ss01 o_r.liga.ss01 o_s.liga.ss01 p_r.liga.ss01 p_s.liga.ss01 q_r.liga.ss01 q_s.liga.ss01 s_r.liga.ss01 s_s.liga.ss01 t_r.liga.ss01 t_s.liga.ss01 t_t.liga.ss01 u_r.liga.ss01 u_s.liga.ss01 v_r.liga.ss01 v_s.liga.ss01 w_r.liga.ss01 w_s.liga.ss01 x_r.liga.ss01 x_s.liga.ss01 z_r.liga.ss01 z_s.liga.ss01 b_r.liga.fina.ss01 b_s.liga.fina.ss01 f_r.liga.fina.ss01 f_s.liga.fina.ss01 h_r.liga.fina.ss01 h_s.liga.fina.ss01 k_r.liga.fina.ss01 k_s.liga.fina.ss01 l_r.liga.fina.ss01 l_s.liga.fina.ss01 b_r.liga.init.case b_s.liga.init.case f_r.liga.init.case f_s.liga.init.case h_r.liga.init.case h_s.liga.init.case k_r.liga.init.case k_s.liga.init.case l_r.liga.init.case l_s.liga.init.case b_r.liga.init.ss01 b_s.liga.init.ss01 f_r.liga.init.ss01 f_s.liga.init.ss01 h_r.liga.init.ss01 h_s.liga.init.ss01 k_r.liga.init.ss01 k_s.liga.init.ss01 l_r.liga.init.ss01 l_s.liga.init.ss01 b_r.liga.isol.ss01 b_s.liga.isol.ss01 f_r.liga.isol.ss01 f_s.liga.isol.ss01 h_r.liga.isol.ss01 h_s.liga.isol.ss01 k_r.liga.isol.ss01 k_s.liga.isol.ss01 l_r.liga.isol.ss01 l_s.liga.isol.ss01 ordfeminine ordmasculine";
 name = AllLetters;
 },
 {
@@ -185,7 +185,7 @@ name = Cap_Case;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adotbelow Agrave Ahookabove Atilde B C D Dcroat E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edotbelow Egrave Ehookabove Etilde F G H I Iacute Idotbelow Igrave Ihookabove Itilde J K L M N O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Otilde P Q R S T U Uacute Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydotbelow Ygrave Yhookabove Ytilde Z A.ss01 Aacute.ss01 Abreve.ss01 Abreveacute.ss01 Abrevedotbelow.ss01 Abrevegrave.ss01 Abrevehookabove.ss01 Abrevetilde.ss01 Acircumflex.ss01 Acircumflexacute.ss01 Acircumflexdotbelow.ss01 Acircumflexgrave.ss01 Acircumflexhookabove.ss01 Acircumflextilde.ss01 Adotbelow.ss01 Agrave.ss01 Ahookabove.ss01 Atilde.ss01 C.ss01 E.ss01 Eacute.ss01 Ecircumflex.ss01 Ecircumflexacute.ss01 Ecircumflexdotbelow.ss01 Ecircumflexgrave.ss01 Ecircumflexhookabove.ss01 Ecircumflextilde.ss01 Edotbelow.ss01 Egrave.ss01 Ehookabove.ss01 Etilde.ss01 G.ss01 H.ss01 Iacute.ss01 Idotbelow.ss01 Igrave.ss01 Ihookabove.ss01 Itilde.ss01 J.ss01 K.ss01 L.ss01 M.ss01 N.ss01 O.ss01 Oacute.ss01 Ocircumflex.ss01 Ocircumflexacute.ss01 Ocircumflexdotbelow.ss01 Ocircumflexgrave.ss01 Ocircumflexhookabove.ss01 Ocircumflextilde.ss01 Odotbelow.ss01 Ograve.ss01 Ohookabove.ss01 Ohorn.ss01 Ohornacute.ss01 Ohorndotbelow.ss01 Ohorngrave.ss01 Ohornhookabove.ss01 Ohorntilde.ss01 Otilde.ss01 Q.ss01 R.ss01 S.ss01 U.ss01 Udotbelow.ss01 Ugrave.ss01 Uhookabove.ss01 Uhorn.ss01 Uhornacute.ss01 Uhorndotbelow.ss01 Uhorngrave.ss01 Uhornhookabove.ss01 Uhorntilde.ss01 Utilde.ss01 X.ss01 Y.ss01 Yacute.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ytilde.ss01 Z.ss01 Adieresis Amacron Aogonek Aring AE Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Dcaron Eth Ecaron Edieresis Edotaccent Emacron Eogonek Schwa Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Hbar Hcircumflex IJ Icircumflex Idieresis Idotaccent Imacron Iogonek Jacute Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Odieresis Ohungarumlaut Omacron Oslash OE Thorn Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Tcaron Tcedilla Tcommaaccent Ubreve Ucircumflex Udieresis Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Ycircumflex Ydieresis Zacute Zcaron Zdotaccent A.case C.case E.case G.case H.case J.case K.case L.case M.case N.case O.case Q.case R.case S.case U.case Uhorn.case X.case Y.case Z.case a.case b.case c.case d.case dcroat.case e.case eacute.case ecircumflex.case ecircumflexacute.case ecircumflexdotbelow.case ecircumflexgrave.case ecircumflexhookabove.case ecircumflextilde.case edotbelow.case egrave.case ehookabove.case etilde.case f.case g.case h.case i.case dotlessi.case j.case k.case l.case m.case n.case o.case p.case q.case r.case s.case t.case u.case v.case w.case x.case y.case z.case Lcommaaccent.loclMAH Ncommaaccent.loclMAH A.ss03 Aacute.ss03 Abreve.ss03 Abreveacute.ss03 Abrevedotbelow.ss03 Abrevegrave.ss03 Abrevehookabove.ss03 Abrevetilde.ss03 Acircumflex.ss03 Acircumflexacute.ss03 Acircumflexdotbelow.ss03 Acircumflexgrave.ss03 Acircumflexhookabove.ss03 Acircumflextilde.ss03 Adotbelow.ss03 Agrave.ss03 Ahookabove.ss03 Atilde.ss03 B.ss03 C.ss03 D.ss03 Dcroat.ss03 E.ss03 Eacute.ss03 Ecircumflex.ss03 Ecircumflexacute.ss03 Ecircumflexdotbelow.ss03 Ecircumflexgrave.ss03 Ecircumflexhookabove.ss03 Ecircumflextilde.ss03 Edotbelow.ss03 Egrave.ss03 Ehookabove.ss03 Etilde.ss03 F.ss03 G.ss03 H.ss03 I.ss03 Iacute.ss03 Idotbelow.ss03 Igrave.ss03 Ihookabove.ss03 Itilde.ss03 J.ss03 K.ss03 L.ss03 M.ss03 N.ss03 O.ss03 Oacute.ss03 Ocircumflex.ss03 Ocircumflexacute.ss03 Ocircumflexdotbelow.ss03 Ocircumflexgrave.ss03 Ocircumflexhookabove.ss03 Ocircumflextilde.ss03 Odotbelow.ss03 Ograve.ss03 Ohookabove.ss03 Ohorn.ss03 Ohornacute.ss03 Ohorndotbelow.ss03 Ohorngrave.ss03 Ohornhookabove.ss03 Ohorntilde.ss03 Otilde.ss03 P.ss03 Q.ss03 R.ss03 S.ss03 T.ss03 U.ss03 Uacute.ss03 Udotbelow.ss03 Ugrave.ss03 Uhookabove.ss03 Uhorn.ss03 Uhornacute.ss03 Uhorndotbelow.ss03 Uhorngrave.ss03 Uhornhookabove.ss03 Uhorntilde.ss03 Utilde.ss03 V.ss03 W.ss03 X.ss03 Y.ss03 Yacute.ss03 Ydotbelow.ss03 Ygrave.ss03 Yhookabove.ss03 Ytilde.ss03 Z.ss03 b.init.case f.init.case h.init.case k.init.case l.init.case e.case.ss01 eacute.case.ss01 ecircumflex.case.ss01 ecircumflexacute.case.ss01 ecircumflexdotbelow.case.ss01 ecircumflexgrave.case.ss01 ecircumflexhookabove.case.ss01 ecircumflextilde.case.ss01 edotbelow.case.ss01 egrave.case.ss01 ehookabove.case.ss01 etilde.case.ss01 r.case.ss01 s.case.ss01 A_I.liga A_r.liga A_s.liga B_r.liga B_s.liga C_r.liga C_s.liga D_r.liga D_s.liga E_r.liga E_s.liga F_r.liga F_s.liga G_r.liga G_s.liga H_r.liga H_s.liga I_r.liga I_s.liga J_r.liga J_s.liga K_r.liga K_s.liga L_r.liga L_s.liga M_o_M_o.liga M_r.liga M_s.liga N_r.liga N_s.liga O_r.liga O_s.liga P_r.liga P_s.liga Q_R.liga Q_r.liga Q_s.liga R_r.liga R_s.liga S_r.liga S_s.liga T_H.liga T_abrevegrave.liga T_abrevehookabove.liga T_r.liga T_s.liga U_r.liga U_s.liga V_r.liga V_s.liga W_r.liga W_s.liga Z_r.liga Z_s.liga A_r.liga.case A_s.liga.case B_r.liga.case B_s.liga.case C_r.liga.case C_s.liga.case D_r.liga.case D_s.liga.case E_r.liga.case E_s.liga.case F_r.liga.case F_s.liga.case G_r.liga.case G_s.liga.case H_r.liga.case H_s.liga.case I_r.liga.case I_s.liga.case J_r.liga.case J_s.liga.case K_r.liga.case K_s.liga.case L_r.liga.case L_s.liga.case M_r.liga.case M_s.liga.case N_r.liga.case N_s.liga.case O_r.liga.case O_s.liga.case P_r.liga.case P_s.liga.case Q_r.liga.case Q_s.liga.case R_r.liga.case R_s.liga.case S_r.liga.case S_s.liga.case T_r.liga.case T_s.liga.case U_r.liga.case U_s.liga.case V_r.liga.case V_s.liga.case W_r.liga.case W_s.liga.case Z_r.liga.case Z_s.liga.case A_r.liga.fina A_s.liga.fina B_r.liga.fina B_s.liga.fina C_r.liga.fina C_s.liga.fina D_r.liga.fina D_s.liga.fina E_r.liga.fina E_s.liga.fina F_r.liga.fina F_s.liga.fina G_r.liga.fina G_s.liga.fina H_r.liga.fina H_s.liga.fina I_r.liga.fina I_s.liga.fina J_r.liga.fina J_s.liga.fina K_r.liga.fina K_s.liga.fina L_r.liga.fina L_s.liga.fina M_r.liga.fina M_s.liga.fina N_r.liga.fina N_s.liga.fina O_r.liga.fina O_s.liga.fina P_r.liga.fina P_s.liga.fina Q_r.liga.fina Q_s.liga.fina R_r.liga.fina R_s.liga.fina S_r.liga.fina S_s.liga.fina T_r.liga.fina T_s.liga.fina U_r.liga.fina U_s.liga.fina V_r.liga.fina V_s.liga.fina W_r.liga.fina W_s.liga.fina Z_r.liga.fina Z_s.liga.fina A_r.liga.init A_s.liga.init B_r.liga.init B_s.liga.init C_r.liga.init C_s.liga.init D_r.liga.init D_s.liga.init E_r.liga.init E_s.liga.init F_r.liga.init F_s.liga.init G_r.liga.init G_s.liga.init H_r.liga.init H_s.liga.init I_r.liga.init I_s.liga.init J_r.liga.init J_s.liga.init K_r.liga.init K_s.liga.init L_r.liga.init L_s.liga.init M_r.liga.init M_s.liga.init N_r.liga.init N_s.liga.init O_r.liga.init O_s.liga.init P_r.liga.init P_s.liga.init Q_r.liga.init Q_s.liga.init R_r.liga.init R_s.liga.init S_r.liga.init S_s.liga.init T_r.liga.init T_s.liga.init U_r.liga.init U_s.liga.init V_r.liga.init V_s.liga.init W_r.liga.init W_s.liga.init Z_r.liga.init Z_s.liga.init A_r.liga.isol A_s.liga.isol B_r.liga.isol B_s.liga.isol C_r.liga.isol C_s.liga.isol D_r.liga.isol D_s.liga.isol E_r.liga.isol E_s.liga.isol F_r.liga.isol F_s.liga.isol G_r.liga.isol G_s.liga.isol H_r.liga.isol H_s.liga.isol I_r.liga.isol I_s.liga.isol J_r.liga.isol J_s.liga.isol K_r.liga.isol K_s.liga.isol L_r.liga.isol L_s.liga.isol M_r.liga.isol M_s.liga.isol N_r.liga.isol N_s.liga.isol O_r.liga.isol O_s.liga.isol P_r.liga.isol P_s.liga.isol Q_r.liga.isol Q_s.liga.isol R_r.liga.isol R_s.liga.isol S_r.liga.isol S_s.liga.isol T_r.liga.isol T_s.liga.isol U_r.liga.isol U_s.liga.isol V_r.liga.isol V_s.liga.isol W_r.liga.isol W_s.liga.isol Z_r.liga.isol Z_s.liga.isol A_r.liga.ss01 A_s.liga.ss01 B_r.liga.ss01 B_s.liga.ss01 C_r.liga.ss01 C_s.liga.ss01 D_r.liga.ss01 D_s.liga.ss01 E_r.liga.ss01 E_s.liga.ss01 F_r.liga.ss01 F_s.liga.ss01 G_r.liga.ss01 G_s.liga.ss01 H_r.liga.ss01 H_s.liga.ss01 I_r.liga.ss01 I_s.liga.ss01 J_r.liga.ss01 J_s.liga.ss01 K_r.liga.ss01 K_s.liga.ss01 L_r.liga.ss01 L_s.liga.ss01 M_r.liga.ss01 M_s.liga.ss01 N_r.liga.ss01 N_s.liga.ss01 O_r.liga.ss01 O_s.liga.ss01 P_r.liga.ss01 P_s.liga.ss01 Q_r.liga.ss01 Q_s.liga.ss01 R_r.liga.ss01 R_s.liga.ss01 S_r.liga.ss01 S_s.liga.ss01 T_r.liga.ss01 T_s.liga.ss01 U_r.liga.ss01 U_s.liga.ss01 V_r.liga.ss01 V_s.liga.ss01 W_r.liga.ss01 W_s.liga.ss01 Z_r.liga.ss01 Z_s.liga.ss01 A_r.liga.init.ss01 A_s.liga.init.ss01 B_r.liga.init.ss01 B_s.liga.init.ss01 C_r.liga.init.ss01 C_s.liga.init.ss01 D_r.liga.init.ss01 D_s.liga.init.ss01 E_r.liga.init.ss01 E_s.liga.init.ss01 F_r.liga.init.ss01 F_s.liga.init.ss01 G_r.liga.init.ss01 G_s.liga.init.ss01 H_r.liga.init.ss01 H_s.liga.init.ss01 I_r.liga.init.ss01 I_s.liga.init.ss01 J_r.liga.init.ss01 J_s.liga.init.ss01 K_r.liga.init.ss01 K_s.liga.init.ss01 L_r.liga.init.ss01 L_s.liga.init.ss01 M_r.liga.init.ss01 M_s.liga.init.ss01 N_r.liga.init.ss01 N_s.liga.init.ss01 O_r.liga.init.ss01 O_s.liga.init.ss01 P_r.liga.init.ss01 P_s.liga.init.ss01 Q_r.liga.init.ss01 Q_s.liga.init.ss01 R_r.liga.init.ss01 R_s.liga.init.ss01 S_r.liga.init.ss01 S_s.liga.init.ss01 T_r.liga.init.ss01 T_s.liga.init.ss01 U_r.liga.init.ss01 U_s.liga.init.ss01 V_r.liga.init.ss01 V_s.liga.init.ss01 W_r.liga.init.ss01 W_s.liga.init.ss01 Z_r.liga.init.ss01 Z_s.liga.init.ss01";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A.case C.case E.case G.case H.case J.case K.case L.case M.case N.case O.case Q.case R.case S.case U.case Uhorn.case X.case Y.case Z.case a.case b.case c.case d.case dcroat.case e.case eacute.case ecircumflex.case ecircumflexacute.case ecircumflexdotbelow.case ecircumflexgrave.case ecircumflexhookabove.case ecircumflextilde.case edotbelow.case egrave.case ehookabove.case etilde.case f.case g.case h.case i.case dotlessi.case j.case k.case l.case m.case n.case o.case p.case q.case r.case s.case t.case u.case v.case w.case x.case y.case z.case Lcommaaccent.loclMAH Ncommaaccent.loclMAH A.ss01 Aacute.ss01 Abreve.ss01 Abreveacute.ss01 Abrevedotbelow.ss01 Abrevegrave.ss01 Abrevehookabove.ss01 Abrevetilde.ss01 Acircumflex.ss01 Acircumflexacute.ss01 Acircumflexdotbelow.ss01 Acircumflexgrave.ss01 Acircumflexhookabove.ss01 Acircumflextilde.ss01 Adotbelow.ss01 Agrave.ss01 Ahookabove.ss01 Atilde.ss01 C.ss01 E.ss01 Eacute.ss01 Ecircumflex.ss01 Ecircumflexacute.ss01 Ecircumflexdotbelow.ss01 Ecircumflexgrave.ss01 Ecircumflexhookabove.ss01 Ecircumflextilde.ss01 Edotbelow.ss01 Egrave.ss01 Ehookabove.ss01 Etilde.ss01 G.ss01 H.ss01 Iacute.ss01 Idotbelow.ss01 Igrave.ss01 Ihookabove.ss01 Itilde.ss01 J.ss01 K.ss01 L.ss01 M.ss01 N.ss01 O.ss01 Oacute.ss01 Ocircumflex.ss01 Ocircumflexacute.ss01 Ocircumflexdotbelow.ss01 Ocircumflexgrave.ss01 Ocircumflexhookabove.ss01 Ocircumflextilde.ss01 Odotbelow.ss01 Ograve.ss01 Ohookabove.ss01 Ohorn.ss01 Ohornacute.ss01 Ohorndotbelow.ss01 Ohorngrave.ss01 Ohornhookabove.ss01 Ohorntilde.ss01 Otilde.ss01 Q.ss01 R.ss01 S.ss01 U.ss01 Udotbelow.ss01 Ugrave.ss01 Uhookabove.ss01 Uhorn.ss01 Uhornacute.ss01 Uhorndotbelow.ss01 Uhorngrave.ss01 Uhornhookabove.ss01 Uhorntilde.ss01 Utilde.ss01 X.ss01 Y.ss01 Yacute.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ytilde.ss01 Z.ss01 A.ss03 Aacute.ss03 Abreve.ss03 Abreveacute.ss03 Abrevedotbelow.ss03 Abrevegrave.ss03 Abrevehookabove.ss03 Abrevetilde.ss03 Acircumflex.ss03 Acircumflexacute.ss03 Acircumflexdotbelow.ss03 Acircumflexgrave.ss03 Acircumflexhookabove.ss03 Acircumflextilde.ss03 Adotbelow.ss03 Agrave.ss03 Ahookabove.ss03 Atilde.ss03 B.ss03 C.ss03 D.ss03 Dcroat.ss03 E.ss03 Eacute.ss03 Ecircumflex.ss03 Ecircumflexacute.ss03 Ecircumflexdotbelow.ss03 Ecircumflexgrave.ss03 Ecircumflexhookabove.ss03 Ecircumflextilde.ss03 Edotbelow.ss03 Egrave.ss03 Ehookabove.ss03 Etilde.ss03 F.ss03 G.ss03 H.ss03 I.ss03 Iacute.ss03 Idotbelow.ss03 Igrave.ss03 Ihookabove.ss03 Itilde.ss03 J.ss03 K.ss03 L.ss03 M.ss03 N.ss03 O.ss03 Oacute.ss03 Ocircumflex.ss03 Ocircumflexacute.ss03 Ocircumflexdotbelow.ss03 Ocircumflexgrave.ss03 Ocircumflexhookabove.ss03 Ocircumflextilde.ss03 Odotbelow.ss03 Ograve.ss03 Ohookabove.ss03 Ohorn.ss03 Ohornacute.ss03 Ohorndotbelow.ss03 Ohorngrave.ss03 Ohornhookabove.ss03 Ohorntilde.ss03 Otilde.ss03 P.ss03 Q.ss03 R.ss03 S.ss03 T.ss03 U.ss03 Uacute.ss03 Udotbelow.ss03 Ugrave.ss03 Uhookabove.ss03 Uhorn.ss03 Uhornacute.ss03 Uhorndotbelow.ss03 Uhorngrave.ss03 Uhornhookabove.ss03 Uhorntilde.ss03 Utilde.ss03 V.ss03 W.ss03 X.ss03 Y.ss03 Yacute.ss03 Ydotbelow.ss03 Ygrave.ss03 Yhookabove.ss03 Ytilde.ss03 Z.ss03 b.init.case f.init.case h.init.case k.init.case l.init.case e.case.ss01 eacute.case.ss01 ecircumflex.case.ss01 ecircumflexacute.case.ss01 ecircumflexdotbelow.case.ss01 ecircumflexgrave.case.ss01 ecircumflexhookabove.case.ss01 ecircumflextilde.case.ss01 edotbelow.case.ss01 egrave.case.ss01 ehookabove.case.ss01 etilde.case.ss01 r.case.ss01 s.case.ss01 A_I.liga A_r.liga A_s.liga B_r.liga B_s.liga C_r.liga C_s.liga D_r.liga D_s.liga E_r.liga E_s.liga F_r.liga F_s.liga G_r.liga G_s.liga H_r.liga H_s.liga I_r.liga I_s.liga J_r.liga J_s.liga K_r.liga K_s.liga L_r.liga L_s.liga M_o_M_o.liga M_r.liga M_s.liga N_r.liga N_s.liga O_r.liga O_s.liga P_r.liga P_s.liga Q_R.liga Q_r.liga Q_s.liga R_r.liga R_s.liga S_r.liga S_s.liga T_H.liga T_abrevegrave.liga T_abrevehookabove.liga T_r.liga T_s.liga U_r.liga U_s.liga V_r.liga V_s.liga W_r.liga W_s.liga Z_r.liga Z_s.liga A_r.liga.case A_s.liga.case B_r.liga.case B_s.liga.case C_r.liga.case C_s.liga.case D_r.liga.case D_s.liga.case E_r.liga.case E_s.liga.case F_r.liga.case F_s.liga.case G_r.liga.case G_s.liga.case H_r.liga.case H_s.liga.case I_r.liga.case I_s.liga.case J_r.liga.case J_s.liga.case K_r.liga.case K_s.liga.case L_r.liga.case L_s.liga.case M_r.liga.case M_s.liga.case N_r.liga.case N_s.liga.case O_r.liga.case O_s.liga.case P_r.liga.case P_s.liga.case Q_r.liga.case Q_s.liga.case R_r.liga.case R_s.liga.case S_r.liga.case S_s.liga.case T_r.liga.case T_s.liga.case U_r.liga.case U_s.liga.case V_r.liga.case V_s.liga.case W_r.liga.case W_s.liga.case Z_r.liga.case Z_s.liga.case A_r.liga.fina A_s.liga.fina B_r.liga.fina B_s.liga.fina C_r.liga.fina C_s.liga.fina D_r.liga.fina D_s.liga.fina E_r.liga.fina E_s.liga.fina F_r.liga.fina F_s.liga.fina G_r.liga.fina G_s.liga.fina H_r.liga.fina H_s.liga.fina I_r.liga.fina I_s.liga.fina J_r.liga.fina J_s.liga.fina K_r.liga.fina K_s.liga.fina L_r.liga.fina L_s.liga.fina M_r.liga.fina M_s.liga.fina N_r.liga.fina N_s.liga.fina O_r.liga.fina O_s.liga.fina P_r.liga.fina P_s.liga.fina Q_r.liga.fina Q_s.liga.fina R_r.liga.fina R_s.liga.fina S_r.liga.fina S_s.liga.fina T_r.liga.fina T_s.liga.fina U_r.liga.fina U_s.liga.fina V_r.liga.fina V_s.liga.fina W_r.liga.fina W_s.liga.fina Z_r.liga.fina Z_s.liga.fina A_r.liga.init A_s.liga.init B_r.liga.init B_s.liga.init C_r.liga.init C_s.liga.init D_r.liga.init D_s.liga.init E_r.liga.init E_s.liga.init F_r.liga.init F_s.liga.init G_r.liga.init G_s.liga.init H_r.liga.init H_s.liga.init I_r.liga.init I_s.liga.init J_r.liga.init J_s.liga.init K_r.liga.init K_s.liga.init L_r.liga.init L_s.liga.init M_r.liga.init M_s.liga.init N_r.liga.init N_s.liga.init O_r.liga.init O_s.liga.init P_r.liga.init P_s.liga.init Q_r.liga.init Q_s.liga.init R_r.liga.init R_s.liga.init S_r.liga.init S_s.liga.init T_r.liga.init T_s.liga.init U_r.liga.init U_s.liga.init V_r.liga.init V_s.liga.init W_r.liga.init W_s.liga.init Z_r.liga.init Z_s.liga.init A_r.liga.isol A_s.liga.isol B_r.liga.isol B_s.liga.isol C_r.liga.isol C_s.liga.isol D_r.liga.isol D_s.liga.isol E_r.liga.isol E_s.liga.isol F_r.liga.isol F_s.liga.isol G_r.liga.isol G_s.liga.isol H_r.liga.isol H_s.liga.isol I_r.liga.isol I_s.liga.isol J_r.liga.isol J_s.liga.isol K_r.liga.isol K_s.liga.isol L_r.liga.isol L_s.liga.isol M_r.liga.isol M_s.liga.isol N_r.liga.isol N_s.liga.isol O_r.liga.isol O_s.liga.isol P_r.liga.isol P_s.liga.isol Q_r.liga.isol Q_s.liga.isol R_r.liga.isol R_s.liga.isol S_r.liga.isol S_s.liga.isol T_r.liga.isol T_s.liga.isol U_r.liga.isol U_s.liga.isol V_r.liga.isol V_s.liga.isol W_r.liga.isol W_s.liga.isol Z_r.liga.isol Z_s.liga.isol A_r.liga.ss01 A_s.liga.ss01 B_r.liga.ss01 B_s.liga.ss01 C_r.liga.ss01 C_s.liga.ss01 D_r.liga.ss01 D_s.liga.ss01 E_r.liga.ss01 E_s.liga.ss01 F_r.liga.ss01 F_s.liga.ss01 G_r.liga.ss01 G_s.liga.ss01 H_r.liga.ss01 H_s.liga.ss01 I_r.liga.ss01 I_s.liga.ss01 J_r.liga.ss01 J_s.liga.ss01 K_r.liga.ss01 K_s.liga.ss01 L_r.liga.ss01 L_s.liga.ss01 M_r.liga.ss01 M_s.liga.ss01 N_r.liga.ss01 N_s.liga.ss01 O_r.liga.ss01 O_s.liga.ss01 P_r.liga.ss01 P_s.liga.ss01 Q_r.liga.ss01 Q_s.liga.ss01 R_r.liga.ss01 R_s.liga.ss01 S_r.liga.ss01 S_s.liga.ss01 T_r.liga.ss01 T_s.liga.ss01 U_r.liga.ss01 U_s.liga.ss01 V_r.liga.ss01 V_s.liga.ss01 W_r.liga.ss01 W_s.liga.ss01 Z_r.liga.ss01 Z_s.liga.ss01 A_r.liga.init.ss01 A_s.liga.init.ss01 B_r.liga.init.ss01 B_s.liga.init.ss01 C_r.liga.init.ss01 C_s.liga.init.ss01 D_r.liga.init.ss01 D_s.liga.init.ss01 E_r.liga.init.ss01 E_s.liga.init.ss01 F_r.liga.init.ss01 F_s.liga.init.ss01 G_r.liga.init.ss01 G_s.liga.init.ss01 H_r.liga.init.ss01 H_s.liga.init.ss01 I_r.liga.init.ss01 I_s.liga.init.ss01 J_r.liga.init.ss01 J_s.liga.init.ss01 K_r.liga.init.ss01 K_s.liga.init.ss01 L_r.liga.init.ss01 L_s.liga.init.ss01 M_r.liga.init.ss01 M_s.liga.init.ss01 N_r.liga.init.ss01 N_s.liga.init.ss01 O_r.liga.init.ss01 O_s.liga.init.ss01 P_r.liga.init.ss01 P_s.liga.init.ss01 Q_r.liga.init.ss01 Q_s.liga.init.ss01 R_r.liga.init.ss01 R_s.liga.init.ss01 S_r.liga.init.ss01 S_s.liga.init.ss01 T_r.liga.init.ss01 T_s.liga.init.ss01 U_r.liga.init.ss01 U_s.liga.init.ss01 V_r.liga.init.ss01 V_s.liga.init.ss01 W_r.liga.init.ss01 W_s.liga.init.ss01 Z_r.liga.init.ss01 Z_s.liga.init.ss01";
 name = Uppercase;
 },
 {
@@ -195,25 +195,6 @@ name = zx;
 }
 );
 customParameters = (
-{
-name = vendorID;
-value = TA;
-},
-{
-name = panose;
-value = (
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-},
 {
 name = fsType;
 value = (
@@ -644,7 +625,10 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature case;
+code = "feature locl;
+feature numr;
+feature frac;
+feature case;
 feature isol;
 feature init;
 feature fina;
@@ -652,16 +636,14 @@ feature ss01;
 feature ss02;
 feature calt;
 feature ss03;
-feature locl;
-feature numr;
-feature frac;
+feature ordn;
 ";
 tag = aalt;
 },
 {
 automatic = 1;
 code = "lookup ccmp_DFLT_1 {
-	@CombiningTopAccents = [caroncomb commaturnedabovecomb dieresiscomb dotaccentcomb hungarumlautcomb macroncomb ringcomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_DFLT_1;
@@ -728,6 +710,13 @@ sub one slash two by onehalf;
 sub three slash four by threequarters;
 ";
 tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
 },
 {
 automatic = 1;
@@ -1479,9 +1468,7 @@ tag = liga;
 },
 {
 automatic = 1;
-code = "sub r by r.ss01;
-sub s by s.ss01;
-sub A by A.ss01;
+code = "sub A by A.ss01;
 sub Aacute by Aacute.ss01;
 sub Abreve by Abreve.ss01;
 sub Abreveacute by Abreveacute.ss01;
@@ -1564,97 +1551,6 @@ sub Ygrave by Ygrave.ss01;
 sub Yhookabove by Yhookabove.ss01;
 sub Ytilde by Ytilde.ss01;
 sub Z by Z.ss01;
-sub a by a.ss01;
-sub aacute by aacute.ss01;
-sub abreve by abreve.ss01;
-sub abreveacute by abreveacute.ss01;
-sub abrevedotbelow by abrevedotbelow.ss01;
-sub abrevegrave by abrevegrave.ss01;
-sub abrevehookabove by abrevehookabove.ss01;
-sub abrevetilde by abrevetilde.ss01;
-sub acircumflex by acircumflex.ss01;
-sub acircumflexacute by acircumflexacute.ss01;
-sub acircumflexdotbelow by acircumflexdotbelow.ss01;
-sub acircumflexgrave by acircumflexgrave.ss01;
-sub acircumflexhookabove by acircumflexhookabove.ss01;
-sub acircumflextilde by acircumflextilde.ss01;
-sub adotbelow by adotbelow.ss01;
-sub agrave by agrave.ss01;
-sub ahookabove by ahookabove.ss01;
-sub atilde by atilde.ss01;
-sub b by b.ss01;
-sub c by c.ss01;
-sub d by d.ss01;
-sub dcroat by dcroat.ss01;
-sub e by e.ss01;
-sub eacute by eacute.ss01;
-sub ecircumflex by ecircumflex.ss01;
-sub ecircumflexacute by ecircumflexacute.ss01;
-sub ecircumflexdotbelow by ecircumflexdotbelow.ss01;
-sub ecircumflexgrave by ecircumflexgrave.ss01;
-sub ecircumflexhookabove by ecircumflexhookabove.ss01;
-sub ecircumflextilde by ecircumflextilde.ss01;
-sub edotbelow by edotbelow.ss01;
-sub egrave by egrave.ss01;
-sub ehookabove by ehookabove.ss01;
-sub etilde by etilde.ss01;
-sub f by f.ss01;
-sub g by g.ss01;
-sub h by h.ss01;
-sub i by i.ss01;
-sub dotlessi by dotlessi.ss01;
-sub iacute by iacute.ss01;
-sub idotbelow by idotbelow.ss01;
-sub igrave by igrave.ss01;
-sub ihookabove by ihookabove.ss01;
-sub itilde by itilde.ss01;
-sub j by j.ss01;
-sub k by k.ss01;
-sub l by l.ss01;
-sub m by m.ss01;
-sub n by n.ss01;
-sub o by o.ss01;
-sub oacute by oacute.ss01;
-sub ocircumflex by ocircumflex.ss01;
-sub ocircumflexacute by ocircumflexacute.ss01;
-sub ocircumflexdotbelow by ocircumflexdotbelow.ss01;
-sub ocircumflexgrave by ocircumflexgrave.ss01;
-sub ocircumflexhookabove by ocircumflexhookabove.ss01;
-sub ocircumflextilde by ocircumflextilde.ss01;
-sub odotbelow by odotbelow.ss01;
-sub ograve by ograve.ss01;
-sub ohookabove by ohookabove.ss01;
-sub ohorn by ohorn.ss01;
-sub ohornacute by ohornacute.ss01;
-sub ohorndotbelow by ohorndotbelow.ss01;
-sub ohorngrave by ohorngrave.ss01;
-sub ohornhookabove by ohornhookabove.ss01;
-sub ohorntilde by ohorntilde.ss01;
-sub otilde by otilde.ss01;
-sub p by p.ss01;
-sub q by q.ss01;
-sub u by u.ss01;
-sub uacute by uacute.ss01;
-sub udotbelow by udotbelow.ss01;
-sub ugrave by ugrave.ss01;
-sub uhookabove by uhookabove.ss01;
-sub uhorn by uhorn.ss01;
-sub uhornacute by uhornacute.ss01;
-sub uhorndotbelow by uhorndotbelow.ss01;
-sub uhorngrave by uhorngrave.ss01;
-sub uhornhookabove by uhornhookabove.ss01;
-sub uhorntilde by uhorntilde.ss01;
-sub utilde by utilde.ss01;
-sub v by v.ss01;
-sub w by w.ss01;
-sub x by x.ss01;
-sub y by y.ss01;
-sub yacute by yacute.ss01;
-sub ydotbelow by ydotbelow.ss01;
-sub ygrave by ygrave.ss01;
-sub yhookabove by yhookabove.ss01;
-sub ytilde by ytilde.ss01;
-sub z by z.ss01;
 sub e.case by e.case.ss01;
 sub eacute.case by eacute.case.ss01;
 sub ecircumflex.case by ecircumflex.case.ss01;
@@ -1765,6 +1661,99 @@ sub W_r.liga.init by W_r.liga.init.ss01;
 sub W_s.liga.init by W_s.liga.init.ss01;
 sub Z_r.liga.init by Z_r.liga.init.ss01;
 sub Z_s.liga.init by Z_s.liga.init.ss01;
+sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub abreveacute by abreveacute.ss01;
+sub abrevedotbelow by abrevedotbelow.ss01;
+sub abrevegrave by abrevegrave.ss01;
+sub abrevehookabove by abrevehookabove.ss01;
+sub abrevetilde by abrevetilde.ss01;
+sub acircumflex by acircumflex.ss01;
+sub acircumflexacute by acircumflexacute.ss01;
+sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub acircumflexgrave by acircumflexgrave.ss01;
+sub acircumflexhookabove by acircumflexhookabove.ss01;
+sub acircumflextilde by acircumflextilde.ss01;
+sub adotbelow by adotbelow.ss01;
+sub agrave by agrave.ss01;
+sub ahookabove by ahookabove.ss01;
+sub atilde by atilde.ss01;
+sub b by b.ss01;
+sub c by c.ss01;
+sub d by d.ss01;
+sub dcroat by dcroat.ss01;
+sub e by e.ss01;
+sub eacute by eacute.ss01;
+sub ecircumflex by ecircumflex.ss01;
+sub ecircumflexacute by ecircumflexacute.ss01;
+sub ecircumflexdotbelow by ecircumflexdotbelow.ss01;
+sub ecircumflexgrave by ecircumflexgrave.ss01;
+sub ecircumflexhookabove by ecircumflexhookabove.ss01;
+sub ecircumflextilde by ecircumflextilde.ss01;
+sub edotbelow by edotbelow.ss01;
+sub egrave by egrave.ss01;
+sub ehookabove by ehookabove.ss01;
+sub etilde by etilde.ss01;
+sub f by f.ss01;
+sub g by g.ss01;
+sub h by h.ss01;
+sub i by i.ss01;
+sub dotlessi by dotlessi.ss01;
+sub iacute by iacute.ss01;
+sub idotbelow by idotbelow.ss01;
+sub igrave by igrave.ss01;
+sub ihookabove by ihookabove.ss01;
+sub itilde by itilde.ss01;
+sub j by j.ss01;
+sub k by k.ss01;
+sub l by l.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
+sub o by o.ss01;
+sub oacute by oacute.ss01;
+sub ocircumflex by ocircumflex.ss01;
+sub ocircumflexacute by ocircumflexacute.ss01;
+sub ocircumflexdotbelow by ocircumflexdotbelow.ss01;
+sub ocircumflexgrave by ocircumflexgrave.ss01;
+sub ocircumflexhookabove by ocircumflexhookabove.ss01;
+sub ocircumflextilde by ocircumflextilde.ss01;
+sub odotbelow by odotbelow.ss01;
+sub ograve by ograve.ss01;
+sub ohookabove by ohookabove.ss01;
+sub ohorn by ohorn.ss01;
+sub ohornacute by ohornacute.ss01;
+sub ohorndotbelow by ohorndotbelow.ss01;
+sub ohorngrave by ohorngrave.ss01;
+sub ohornhookabove by ohornhookabove.ss01;
+sub ohorntilde by ohorntilde.ss01;
+sub otilde by otilde.ss01;
+sub p by p.ss01;
+sub q by q.ss01;
+sub r by r.ss01;
+sub s by s.ss01;
+sub u by u.ss01;
+sub uacute by uacute.ss01;
+sub udotbelow by udotbelow.ss01;
+sub ugrave by ugrave.ss01;
+sub uhookabove by uhookabove.ss01;
+sub uhorn by uhorn.ss01;
+sub uhornacute by uhornacute.ss01;
+sub uhorndotbelow by uhorndotbelow.ss01;
+sub uhorngrave by uhorngrave.ss01;
+sub uhornhookabove by uhornhookabove.ss01;
+sub uhorntilde by uhorntilde.ss01;
+sub utilde by utilde.ss01;
+sub v by v.ss01;
+sub w by w.ss01;
+sub x by x.ss01;
+sub y by y.ss01;
+sub yacute by yacute.ss01;
+sub ydotbelow by ydotbelow.ss01;
+sub ygrave by ygrave.ss01;
+sub yhookabove by yhookabove.ss01;
+sub ytilde by ytilde.ss01;
+sub z by z.ss01;
 sub b.fina by b.fina.ss01;
 sub f.fina by f.fina.ss01;
 sub h.fina by h.fina.ss01;
@@ -55218,15 +55207,17 @@ metricRight = s;
 {
 color = 7;
 glyphname = M_o_M_o.liga;
-lastChange = "2024-08-21 06:48:40 +0000";
+lastChange = "2025-08-06 12:12:22 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = M.ss01;
 },
 {
+alignment = -1;
 pos = (1177,0);
 ref = o.fina;
 },
@@ -55236,6 +55227,7 @@ pos = (1746,0);
 ref = M.ss01;
 },
 {
+alignment = -1;
 pos = (2923,0);
 ref = o.fina;
 }
@@ -185654,7 +185646,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2024 Momo Signature Project Authors";
+value = "Copyright 2024 The Momo Signature Project Authors (https://github.com/typeassociates)";
 }
 );
 },
@@ -185676,13 +185668,13 @@ key = licenses;
 values = (
 {
 language = ENG;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -185700,6 +185692,10 @@ value = "TYPE Associates";
 {
 key = manufacturerURL;
 value = "https://m-n.associates/";
+},
+{
+key = vendorID;
+value = TA;
 }
 );
 settings = {
