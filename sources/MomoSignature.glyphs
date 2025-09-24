@@ -1,9 +1,6 @@
 {
 .appVersion = "3424";
 .formatVersion = 3;
-DisplayStrings = (
-"/scircumflex.begin/scircumflex.ss02"
-);
 classes = (
 {
 code = "a.ss01 aacute.ss01 abreve.ss01 abreveacute.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehookabove.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhookabove.ss01 acircumflextilde.ss01 adotbelow.ss01 agrave.ss01 ahookabove.ss01 atilde.ss01 
@@ -244230,6 +244227,28 @@ width = 582;
 }
 );
 note = .notdef;
+},
+{
+glyphname = lineseparator;
+lastChange = "2025-09-24 12:12:39 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+lastChange = "2025-09-24 12:12:50 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8233;
 },
 {
 glyphname = hyphen;
