@@ -1,6 +1,9 @@
 {
 .appVersion = "3424";
 .formatVersion = 3;
+DisplayStrings = (
+"/scircumflex.begin/scircumflex.ss02"
+);
 classes = (
 {
 code = "a.ss01 aacute.ss01 abreve.ss01 abreveacute.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehookabove.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhookabove.ss01 acircumflextilde.ss01 adotbelow.ss01 agrave.ss01 ahookabove.ss01 atilde.ss01 
@@ -3853,6 +3856,7 @@ sub [A_r.liga.init B_r.liga.init C_r.liga.init D_r.liga.init E_r.liga.init F_r.l
 sub @s_base' @RoundOpen by @s_case;
 sub @DiagEnd s' by s.ss01;
 sub @DiagEnd s.begin' by s.ss02;
+sub @DiagEnd scircumflex.begin by scircumflex.ss02;
 sub @DiagEnd s.case' by s.case.ss01;
 
 #Pair với r
@@ -3878,7 +3882,8 @@ sub @Cap' @zx by @Cap_Case;
 sub @Medial' @Cap by @Final;
 #Schwa
 sub schwa r.fina' by r.isol;
-sub schwa s.fina' by s.isol;";
+sub schwa s.fina' by s.isol;
+";
 tag = calt;
 },
 {
