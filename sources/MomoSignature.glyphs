@@ -3789,7 +3789,7 @@ sub l_s.liga.isol by l_s.liga.isol.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss01;
 }
 );
 tag = ss01;
@@ -3811,7 +3811,7 @@ sub t by t.ss02;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss02;
 }
 );
 tag = ss02;
@@ -4057,7 +4057,7 @@ sub Zdotaccent by Zdotaccent.ss03;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss03;
 }
 );
 tag = ss03;
