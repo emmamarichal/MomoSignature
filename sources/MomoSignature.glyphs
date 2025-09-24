@@ -4070,11 +4070,11 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 1100;
+value = 1145;
 },
 {
 name = typoDescender;
-value = -200;
+value = -285;
 },
 {
 name = typoLineGap;
@@ -4082,7 +4082,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1344;
+value = 1345;
 },
 {
 name = winDescent;
@@ -4090,11 +4090,11 @@ value = 380;
 },
 {
 name = hheaAscender;
-value = 1100;
+value = 1145;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -285;
 },
 {
 name = strikeoutPosition;
@@ -239832,6 +239832,36 @@ width = 872;
 );
 metricLeft = l;
 metricRight = s;
+},
+{
+glyphname = ordfeminine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+}
+);
+width = 732;
+}
+);
+unicode = 170;
+},
+{
+glyphname = ordmasculine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+}
+);
+width = 655;
+}
+);
+unicode = 186;
 },
 {
 glyphname = zero;
