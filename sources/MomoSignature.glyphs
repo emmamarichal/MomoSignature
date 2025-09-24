@@ -4082,11 +4082,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1340;
+value = 1344;
 },
 {
 name = winDescent;
-value = 378;
+value = 380;
 },
 {
 name = hheaAscender;
